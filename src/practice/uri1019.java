@@ -10,7 +10,7 @@ public class uri1019 {
 		int time= input.nextInt();
 		input.close();
 		
-		int hour=0,minute=0,second=0;
+		int hour=0,minute=0;
 		
 		if(time>3600) {
 			hour = time/3600;
