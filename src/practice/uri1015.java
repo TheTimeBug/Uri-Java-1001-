@@ -1,8 +1,7 @@
 package practice;
 import java.util.Scanner; //used to take input form user
-//import java.text.DecimalFormat; //used as number formatter
+import java.text.DecimalFormat; //used as number formatter
 import java.lang.Math; //import for java  math operation
-import java.text.DecimalFormat;
 
 public class uri1015 {
 
