@@ -31,8 +31,7 @@ public class uri1042 {
 			h2=h3;
 			h3=temp;
 		}
-		
-		System.out.println(h1+"\n"+h2+"\n"+h3+"\n");
+		System.out.println(h3+"\n"+h2+"\n"+h1+"\n");
 		System.out.println(a+"\n"+b+"\n"+c);
 
 	}
