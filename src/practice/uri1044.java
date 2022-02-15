@@ -1,6 +1,6 @@
 package practice;
 import java.util.Scanner;
-import java.lang.Math;
+//import java.lang.Math;
 public class uri1044 {
 
 	public static void main(String[] args) {
@@ -15,7 +15,7 @@ public class uri1044 {
 			a=b;
 			b=temp;
 		}
-		System.out.println(a +"  "+ b);
+		
 		if(b%a==0) {
 			System.out.println("Sao Multiplos");
 		}else {
