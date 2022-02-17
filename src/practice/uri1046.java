@@ -4,6 +4,7 @@ public class uri1046 {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
+		input.close();
 		int start,end,time;
 		
 		start= input.nextInt();
