@@ -24,12 +24,6 @@ public class uri1012 {
 		System.out.println("QUADRADO: "+formatter.format(QUADRADO));
 		System.out.println("RETANGULO: "+formatter.format(RETANGULO));
 		
-		
-		
-		
-				
-		
-
 	}
 
 }
